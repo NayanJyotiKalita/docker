@@ -1,0 +1,14 @@
+Docker Stack
+
+Objective:
+Learn how to deploy and verify a Docker Stack in a Docker Swarm environment. This exercise will help you understand stack deployment, service verification, and capturing stack service information for auditing purposes.
+
+Instructions:
+
+    1. Initialize a Docker Swarm cluster on the lab machine.
+
+    2. Deploy a Docker Stack named mystack using the pre-existing docker-compose.yml located at /home/user/docker-compose.yml.
+
+    3. Verify that the services in the stack are running as expected.
+
+    4. Capture the output of the stack services and save it to a file named stack_services_output.txt in your working directory.
