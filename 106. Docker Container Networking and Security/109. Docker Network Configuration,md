@@ -1,0 +1,13 @@
+# Docker Network Configuration
+
+Which command is used to verify the current Docker network configuration?
+
+Choose the correct answer from below:
+
+docker network ls
+
+docker network create
+
+docker network connect
+
+docker network disconnect
